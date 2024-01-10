@@ -7,6 +7,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kawsarahmedr&theme=dark&background=000000&card_width=575)](https://git.io/streak-stats)
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarahmedr&theme=dark&show_icons=true)](https://wpfreshser.com/)
+
+
 ---
 ### :fire: Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarahmedr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
