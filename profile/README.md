@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### :woman_technologist: About WpFresher :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarahmedr&theme=tokyonight&show_icons=true&card_width=575)](https://wpfresher.com/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarahmedr&theme=tokyonight&show_icons=true&card_width=575)
 
 ---
 ### :fire: Stats :
