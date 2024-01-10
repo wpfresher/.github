@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 ### :woman_technologist: About WpFresher :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarahmedr&theme=tokyonight&show_icons=true&card_width=575)
+![kawsarahmedr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarahmedr&theme=tokyonight&show_icons=true&card_width=575)
+
+![kawsarahmedr's GitHub stats](https://readme-stats-delivery-klad.vercel.app/api?username=kawsarahmedr&show_icons=true&locale=en&theme=tokyonight&card_width=575)
 
 ---
 ### :fire: Stats :
