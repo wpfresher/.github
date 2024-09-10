@@ -1,6 +1,11 @@
 ## Hi there 👋
 
 ### :woman_technologist: About WpFresher :
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![kawsarahmedr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarahmedr&theme=tokyonight&show_icons=true&locale=en&card_width=575) | ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kawsarahmedr&theme=dark&background=000000&card_width=575) |
+
+
 ![kawsarahmedr's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawsarahmedr&theme=tokyonight&show_icons=true&locale=en&card_width=575)
 
 ---
