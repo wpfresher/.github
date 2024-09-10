@@ -11,9 +11,4 @@
 | ------------- | ------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarahmedr&layout=compact&theme=vision-friendly-dark) | <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawsarahmedr&margin-w=15&margin-h=15" alt="kawsarahmedr" /></a> </p> |
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawsarahmedr&layout=compact&theme=vision-friendly-dark)
-
 ---
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawsarahmedr&margin-w=15&margin-h=15" alt="kawsarahmedr" /></a> </p>
