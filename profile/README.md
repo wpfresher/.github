@@ -16,4 +16,4 @@
 
 | :fire: Our Website: |
 | ------------- |
-| <p align="left"><a href="https//:wpfresher.com" target="_blank">WpFresher.com</a></p> |
+| <p align="left">[WPFresher.com](https://wpfresher.com)</p> |
